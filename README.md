@@ -1,1 +1,1 @@
-# this is just a simple calculator app.  Its not winning any awards, but its just proof to myself that I can do simple things in HTML, CSS, and JS.  Look forward to future innovations, including tic tac toe!
+this is just a simple calculator app.  Its not winning any awards, but its just proof to myself that I can do simple things in HTML, CSS, and JS.  Look forward to future innovations, including tic tac toe!
