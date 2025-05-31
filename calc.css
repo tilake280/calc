@@ -28,6 +28,7 @@ button {
     margin-top: -2vw;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .nums button {
