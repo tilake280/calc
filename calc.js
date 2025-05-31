@@ -20,8 +20,10 @@ function addTo(a) {
     }
 }
 function operationChosen(a) {
-    operation = a;
-    display();
+    if (num1 != null) {
+        operation = a;
+        display();
+    }
 }
 
 function display() {
